@@ -199,4 +199,18 @@ Skills
 
 ---
 
+---
+
+# 📚 Citation
+
+If you use this work, please cite:
+
+M. R. Mishra, J. Nayak, A. A. Tripathy, S. Jena, M. R. Bhui, and P. K. Meher.
+
+Enhancing Brain Tumor Classification Through Image Subtraction Analysis.
+
+IEEE International Conference on Cognitive, Green and Ubiquitous Computing (IC-CGU), 2025.
+
+DOI: https://ieeexplore.ieee.org/abstract/document/11338093
+
 ⭐ If you found this project useful, please consider giving it a star!
