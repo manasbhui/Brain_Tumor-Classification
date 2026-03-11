@@ -1,4 +1,5 @@
 # 🧠 Enhancing Brain Tumor Classification Through Image Subtraction Analysis
+📄 **IEEE Published Research | IC-CGU 2025**
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-KNN-green)
@@ -104,14 +105,58 @@ The proposed model achieved strong classification performance.
 | Recall | High |
 | F1 Score | Balanced |
 
-Key Improvements:
-
-- Noise reduction
-- Improved tumor edge detection
-- Enhanced texture representation
-- Better classification accuracy than standard LBP methods
 
 ---
+
+# 🧪 Visual Results
+
+The following figures illustrate the visual outcomes of the proposed brain tumor classification approach.  
+These include the original MRI images, LBP-transformed images, texture-differentiated images, and their corresponding histograms.
+
+## Classification Visualization
+
+![Visual](https://github.com/manasbhui/Brain_Tumor-Classification/blob/b223999d5c14de428c874ef5f1934db3353d6774/Visual%20outcome.JPG)
+
+This visualization demonstrates the transformation pipeline:
+
+1. Original MRI Image  
+2. LBP Feature Extraction  
+3. Texture Differentiation using Image Subtraction  
+4. Histogram Analysis of Pixel Distribution
+
+---
+
+## Histogram Analysis
+
+### Glioma Histogram
+
+![glioma Histogram.jpg](https://github.com/manasbhui/Brain_Tumor-Classification/blob/b223999d5c14de428c874ef5f1934db3353d6774/glioma%20Histogram.jpg))
+
+### Meningioma Histogram
+
+![(meningioma histogram.jpg)](https://github.com/manasbhui/Brain_Tumor-Classification/blob/b223999d5c14de428c874ef5f1934db3353d6774/meningioma%20histogram.jpg)
+
+### Pituitary Histogram
+
+![pituitary Histogram.jpg)](https://github.com/manasbhui/Brain_Tumor-Classification/blob/b223999d5c14de428c874ef5f1934db3353d6774/pituitary%20Histogram.jpg)
+
+These histograms represent the **pixel intensity distribution after texture differentiation**, which helps in distinguishing between different tumor types.
+
+---
+---
+
+# 🔬 Research Contribution
+
+This project introduces a **novel feature enhancement technique** for brain tumor classification by combining **Local Binary Pattern (LBP)** with **image subtraction analysis**.
+
+The proposed method improves traditional LBP-based approaches by:
+
+- Reducing noise in MRI images
+- Enhancing tumor edges and textures
+- Improving classification accuracy
+- Achieving **95.44% accuracy** in tumor classification
+
+This research demonstrates the potential of combining **image processing and machine learning techniques** for improved medical image analysis.
 
 # 🛠️ Technologies Used
 
